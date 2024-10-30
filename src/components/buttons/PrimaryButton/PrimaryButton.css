@@ -1,0 +1,11 @@
+.primary-button{
+    background-color: var(--primary-color);
+    border-radius: 10px;
+    border: none;
+    padding: 10px 20px;
+}
+.button-search{
+    width: 32px;
+    border-radius: 5px;
+    padding: 5px !important;
+}

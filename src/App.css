@@ -1,0 +1,17 @@
+.leaflet-container .leaflet-control-zoom{
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    border: none;
+    top: 10px;
+    left: 0;
+}
+.leaflet-container .leaflet-control-zoom a{
+    width: 48px;
+    height: 48px;
+    border: 1px solid var(--grey-color);
+    border-bottom: 1px solid var(--grey-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
